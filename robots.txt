@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utimuuwo.github.io/Aim/sitemap_index.txt.gz
+Sitemap: https://utimuuwo.github.io/ECV/sitemap_index.txt.gz
+Sitemap: https://utimuuwo.github.io/FBn/sitemap_index.txt.gz
+Sitemap: https://utimuuwo.github.io/Vpv/sitemap_index.txt.gz
+Sitemap: https://utimuuwo.github.io/fGx/sitemap_index.txt.gz
